@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A passionate developer crafting code and building things</h3>
+<h3 align="center">A Passionate Software Engineer & Competitive Programmer 🚀</h3>
 
 <p align="center">
   <a href="https://github.com/CodeByAbhishek404">
@@ -8,15 +8,16 @@
 </p>
 
 <p align="center">
-  <!-- Social Links: Replace the URLs with your actual profile links if you have them! -->
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <!-- Social Links -->
+  <a href="https://linkedin.com/in/CodeByAbhishek404">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://leetcode.com/CodeByAbhishek404">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://codolio.com/profile/CodeByAbhishek404">
+    <!-- Using a generic coding icon for Codolio -->
+    <img src="https://img.shields.io/badge/Codolio-121212?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codolio" />
   </a>
 </p>
 
@@ -24,26 +25,36 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Awesome Projects**
-- 🌱 I’m currently learning **New Technologies**
-- 👯 I’m looking to collaborate on **Open Source & Innovative Ideas**
-- 💬 Ask me about **Web Development & Programming**
-- ⚡ Fun fact: **I love coding!**
+Welcome to my digital garden! 🌱 I am a driven developer who loves translating logic and ideas into efficient, scalable, and impactful software. With a strong foundation in **Java**, problem-solving, and data structures, I thrive on tackling complex algorithmic challenges and building robust applications.
+
+- 🔭 I’m currently focused on **enhancing my algorithmic skills and building impactful backend & frontend projects**
+- 💡 I love exploring the intersections of **Software Architecture and efficient system design**
+- 🎓 I am constantly learning and evolving in the ever-changing tech ecosystem
+- 💬 Ask me about **Java, Data Structures, Algorithms, and Web Development**
+- ⚡ Fun fact: **When I'm not debugging code, I'm probably optimizing my real-life algorithms!**
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-<!-- You can customize your skills here. Find more at https://skillicons.dev/ -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,postgres,git,github,vscode,docker,aws&perline=10" alt="My Skills" />
+    <!-- Added Java, Spring Boot, C++, and Python along with web dev tools -->
+    <img src="https://skillicons.dev/icons?i=java,spring,cpp,py,js,html,css,react,nodejs,mysql,postgres,git,github,vscode,docker&perline=10" alt="My Skills" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Problem Solving & Stats
+
+<div align="center">
+  <!-- LeetCode Stats Dynamic Card -->
+  <a href="https://leetcode.com/CodeByAbhishek404">
+    <img src="https://leetcard.jacoblin.cool/CodeByAbhishek404?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" />
+  </a>
+</div>
+<br />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodeByAbhishek404&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
@@ -58,5 +69,5 @@
 
 ---
 <p align="center">
-  <i>Take a look at my repositories below and let's get in touch!</i>
+  <i>Let's connect and build something amazing together!</i>
 </p>
