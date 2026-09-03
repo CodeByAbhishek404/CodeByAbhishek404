@@ -1,11 +1,11 @@
 <!-- Neon Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=600&size=35&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Abhishek+Jha+👋;Passionate+Backend+Developer;Java+%7C+Spring+Boot+%7C+Algorithms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=600&size=35&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Abhishek+Jha+👋;Passionate+Backend+Developer;Java+%7C+Spring+Boot+%7C+Algorithms" alt="Typing SVG" />
 </h1>
 
 <!-- High-Quality Aesthetic GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="Aesthetic Terminal GIF">
+  <img src="developer.gif" width="450" alt="Aesthetic Terminal GIF">
 </p>
 
 <!-- Premium Social Badges -->
@@ -53,9 +53,9 @@
 <!-- Tokyonight Theme is incredibly popular and eye-catchy -->
 <p align="center">
   <a href="https://leetcode.com/u/Abhishek_devv/">
-    <img src="https://leetcard.jacoblin.cool/Abhishek_devv?theme=tokyonight&font=Syne" alt="LeetCode Stats" height="195"/>
+    <img src="https://leetcard.jacoblin.cool/Abhishek_devv?theme=dark" alt="LeetCode Stats" height="195"/>
   </a>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAbhishek404&theme=tokyonight&hide_border=true&v=refresh3" height="195"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAbhishek404&theme=tokyonight&hide_border=true&v=refresh4" height="195"/>
 </p>
 
 <div align="center">
