@@ -53,7 +53,7 @@
 <!-- Tokyonight Theme is incredibly popular and eye-catchy -->
 <p align="center">
   <a href="https://leetcode.com/u/Abhishek_devv/">
-    <img src="https://leetcard.jacoblin.cool/Abhishek_devv?theme=dark" alt="LeetCode Stats" height="195"/>
+    <img src="https://leetcard.jacoblin.cool/Abhishek_devv?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" height="195"/>
   </a>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAbhishek404&theme=tokyonight&hide_border=true&v=refresh4" height="195"/>
 </p>
