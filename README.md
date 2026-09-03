@@ -34,7 +34,7 @@
 <table align="center">
   <tr>
     <td width="45%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="350" alt="Coding Animation"/>
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" alt="Coding Animation"/>
     </td>
     <td width="55%">
       <h2>👨‍💻 About Me</h2>
