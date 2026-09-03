@@ -50,13 +50,17 @@
 
 <h2 align="center">📈 GitHub & Coding Stats</h2>
 
-<!-- Tokyonight Theme is incredibly popular and eye-catchy -->
-<p align="center">
+<div align="center">
   <a href="https://leetcode.com/u/Abhishek_devv/">
-    <img src="https://leetcard.jacoblin.cool/Abhishek_devv?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" height="195"/>
+    <img src="https://leetcard.jacoblin.cool/Abhishek_devv?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" />
   </a>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAbhishek404&theme=tokyonight&hide_border=true&v=refresh4" height="195"/>
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAbhishek404&theme=tokyonight&hide_border=true&v=refresh5" alt="GitHub Streak" />
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
