@@ -16,18 +16,20 @@
 
 ### 👨‍💻 Who am I?
 
-<img align="right" src="developer.gif" width="300" alt="Coding Animation" />
-
-Welcome to my digital workspace! I am a driven developer specializing in **Backend Development** and **Data Structures**. I love translating complex logic into scalable, efficient software architecture.
-
-- 🔭 **Current Focus:** Advanced Algorithms, Backend Systems, and open-source contributions.
-- 💡 **Interests:** Software Architecture, System Design, and Competitive Programming.
-- 🏆 **Platforms:** I maintain a strong, consistent presence on **LeetCode** and **CodeChef**.
-- 💬 **Ask me about:** Java, Spring Boot, and algorithmic problem solving.
-
-<br/>
-<br/>
-<br/>
+<table align="center">
+  <tr>
+    <td width="40%" align="center">
+      <img src="developer.gif" width="300" alt="Coding Animation" />
+    </td>
+    <td width="60%">
+      Welcome to my digital workspace! I am a driven developer specializing in <b>Backend Development</b> and <b>Data Structures</b>. I love translating complex logic into scalable, efficient software architecture.<br><br>
+      - 🔭 <b>Current Focus:</b> Advanced Algorithms, Backend Systems, and open-source contributions.<br>
+      - 💡 <b>Interests:</b> Software Architecture, System Design, and Competitive Programming.<br>
+      - 🏆 <b>Platforms:</b> I maintain a strong, consistent presence on <b>LeetCode</b> and <b>CodeChef</b>.<br>
+      - 💬 <b>Ask me about:</b> Java, Spring Boot, and algorithmic problem solving.
+    </td>
+  </tr>
+</table>
 
 ---
 
