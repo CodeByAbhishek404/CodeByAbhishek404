@@ -61,7 +61,7 @@ public class AbhishekJha {
   <a href="https://leetcode.com/u/Abhishek_devv/">
     <img src="https://leetcard.jacoblin.cool/Abhishek_devv?theme=dark" alt="LeetCode Stats" height="195"/>
   </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAbhishek404&theme=dark&hide_border=true" alt="GitHub Streak" height="195"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAbhishek404&theme=dark&hide_border=true&v=fresh" alt="GitHub Streak" height="195"/>
 </p>
 
 ---
