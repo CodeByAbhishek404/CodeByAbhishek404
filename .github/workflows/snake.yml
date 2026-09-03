@@ -5,19 +5,25 @@ on:
     - cron: "0 */12 * * *" # every 12 hours
   workflow_dispatch:
 
+# Explicitly grant permissions to the GITHUB_TOKEN to push the newly generated snake file
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+      
       - uses: Platane/snk@v3
         with:
           github_user_name: CodeByAbhishek404
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
