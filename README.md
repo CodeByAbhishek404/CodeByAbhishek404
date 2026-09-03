@@ -43,18 +43,26 @@ Welcome to my digital workspace! I am a driven developer specializing in **Backe
 
 ### 📊 GitHub & Competitive Programming Stats
 
-<div align="center">
-  <!-- Horizontal layout for stats -->
-  <a href="https://leetcode.com/u/Abhishek_devv/">
-    <img src="https://leetcard.jacoblin.cool/Abhishek_devv?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" height="195"/>
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeByAbhishek404&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="195"/>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByAbhishek404&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" height="195"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAbhishek404&theme=radium&hide_border=true&background=0D1117" alt="GitHub Streak" height="195"/>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://leetcode.com/u/Abhishek_devv/">
+        <img src="https://leetcard.jacoblin.cool/Abhishek_devv?theme=dark&font=Syne&ext=activity" alt="LeetCode Stats" height="180"/>
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=CodeByAbhishek404&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByAbhishek404&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAbhishek404&theme=radium&hide_border=true&background=0D1117" alt="GitHub Streak" height="180"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
